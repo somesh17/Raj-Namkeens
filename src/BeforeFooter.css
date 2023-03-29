@@ -1,0 +1,23 @@
+.beforeFooter{
+    width: 100%;
+    height: 160px;
+    padding: 15px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+}
+
+.beforeFooter_wrapper{
+    max-width: 340px;
+    display: flex;
+    margin: 0px 10px;
+    
+}
+
+.beforeFooter_icon{
+    padding: 10px;
+}
+
+.beforeFooter_content{
+    line-height: 1.5rem;
+}
